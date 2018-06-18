@@ -1,2 +1,2 @@
-# global-search
+# Global Search Homework
 The Global Search Homework
